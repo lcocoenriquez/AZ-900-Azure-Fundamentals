@@ -2,6 +2,8 @@
 
 https://learn.microsoft.com/es-es/credentials/certifications/azure-fundamentals
 
+https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/az-900
+
 ## 1. Introduction to Microsoft Azure: Describe cloud concepts
 
 ### 1.1. Describe cloud computing
