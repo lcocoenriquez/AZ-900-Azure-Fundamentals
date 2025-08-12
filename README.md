@@ -122,4 +122,50 @@ Describe Microsoft Defender for Cloud
 
 ## 3. Introduction to Microsoft Azure: Describe Azure management and governance
 
+### 3.1. Describe cost management in Azure
 
+Introduction
+
+Describe factors that can affect costs in Azure
+
+Explore the pricing calculator
+
+Exercise - Estimate workload costs by using the Pricing calculator
+
+Describe the Microsoft Cost Management tool
+
+Describe the purpose of tags
+
+### 3.2. Describe features and tools in Azure for governance and compliance
+
+Introduction
+
+Describe the purpose of Microsoft Purview
+
+Describe the purpose of Azure Policy
+
+Describe the purpose of resource locks
+
+Exercise - Configure a resource lock
+
+Describe the purpose of the Service Trust portal
+
+### 3.3. Describe features and tools for managing and deploying Azure resources
+
+Introduction
+
+Describe tools for interacting with Azure
+
+Describe the purpose of Azure Arc
+
+Describe Azure Resource Manager and Azure ARM templates
+
+### 3.4. Describe monitoring tools in Azure
+
+Introduction
+
+Describe the purpose of Azure Advisor
+
+Describe Azure Service Health
+
+Describe Azure Monitor
